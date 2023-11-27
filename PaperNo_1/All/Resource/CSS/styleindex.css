@@ -1,0 +1,119 @@
+.content1{
+    display: flex;
+    justify-content: space-between;
+}
+.content1 img{
+    padding-left: 50px;
+    width: 80px;
+}
+.content2{
+    display: flex;
+}
+.content2 li{
+    list-style: none;
+}
+.content2 li a{
+    color: rgb(22, 175, 175);
+    padding: 0 15px;
+    text-decoration: none;
+}
+.content1 button{
+    margin-top: 18px;
+    color: #fff;
+    background-color: #000;
+}
+.content3{
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+.img-banner{
+    width: 44%;
+}
+.img-banner img{
+    height: 450px;
+    width: 100%;
+}
+.content4 h1{
+    text-align: center;
+    color: rgb(26, 206, 206);
+}
+.content4 p{
+    color: orange;
+}
+.footer{
+    justify-content: center;
+    display: flex;
+}
+.content5{
+    color: #fff;
+    background-color: rgb(15, 132, 186);
+}
+.content5 h5{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.right{
+    margin-left: 190px;
+}
+.top-menu{
+    color: #fff;
+    background-color: rgb(13, 189, 189);
+}
+.top-menu h1{
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 0;
+}
+.body-menu{
+    margin-top: -21px;
+    background-color: #ccc;
+}
+.body-menu li{
+    margin-left: -35px;
+    list-style: none;
+    padding: 10px 0;
+}
+.content6{
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+}
+.m{
+    margin-left: 87px;
+}
+.d{
+    margin-left: 25px;
+}
+.e{
+    margin-left: 59px;
+}
+.f{
+    margin-left: 51px;
+}
+.p{
+    margin-left: 74px;
+}
+.btn button{
+    border-radius: 8px;
+    font-weight: 600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(229, 151, 5);
+}
+.btn{
+    text-align: center;
+}
+.tien{
+    color: rgb(205, 140, 19);
+    margin-left: 110px;
+}
+.Final{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+    background-color: #fff;
+  padding: 10px 0;
+}
